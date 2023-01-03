@@ -91,10 +91,21 @@ menu:
       url: about
       weight: 20
 
-
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
+
+server:
+  headers:
+  - for: "/*"
+    values:
+      Content-Security-Policy: "default-src 'self' 'unsafe-eval' 'unsafe-inline' www.google-analytics.com avatars.githubusercontent.com;"
+      Access-Control-Allow-Origin: 'http://zottner.com'
+      X-Frame-Options: "DENY"
+      X-XSS-Protection: "1; mode=block"
+      X-Content-Type-Options: "nosniff"
+      Referrer-Policy: "strict-origin-when-cross-origin"
+      Strict-Transport-Security: "max-age=2592000; includeSubDomains; preload"
 
