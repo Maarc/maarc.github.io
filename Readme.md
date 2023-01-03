@@ -1,4 +1,3 @@
 # Repository for landing page
 
-https://maarc.github.io/
-
+https://www.zottner.com/
