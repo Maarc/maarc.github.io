@@ -25,7 +25,7 @@ Some of my publicly shared ebook, articles and presentations:
 |:----------:|:------------------------------------------------------- | 
 | 2022.11.10 | [VMware Explore - Rapid Insights to App Portfolio Modernization](https://drive.google.com/file/d/1mVjulvVAj1dNXDz6MUIlsrRSbhFx4RUx/view?usp=share_link) |
 | 2022.10.05 | My first ebook: [The Legacy Trap](http://via.vmware.com/legacy-trap) with [webinar](https://drive.google.com/file/d/1nw_Q7cD6ruk7-SkjdPElBrWYT6D5V0Zm/view?usp=share_link) |
-| 2022.10.05 | [Why Observability Is Essential for Running Modern Apps](https://devm.io/digital-transformation/observability-modern-apps) |
+| 2022.10.05 | [Why Observability Is Essential for Running Modern Apps](https://devm.io/digital-transformation/observability-modern-apps) [ [EN](https://devopscon.io/whitepaper/devops-magazine-no7/) ]|
 | 2022.09.29 | [Five Things Developers Want](https://devm.io/careers/developer-talent-crunch) |
 | 2022.06.02 | [The 7Rs of Modernisation – a roadmap to app transformation](https://jaxenter.com/app-transformation-177545.html) |
 | 2022.05.18 | [Swift Method Overview](https://tanzu.vmware.com/developer/learningpaths/swift-monolith-modernization/01-swift-overview/) |
