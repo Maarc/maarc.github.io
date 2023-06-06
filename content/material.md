@@ -26,7 +26,7 @@ Some of my publicly shared ebook, articles and presentations:
 | 2023.06.06 | [Escape the Legacy Trap - 5 Keys to Successful Application Modernization](https://tanzu.vmware.com/content/blog/escape-the-legacy-trap-successful-application-modernization) |
 | 2023.05.10 | [A Proven Strategy for Application Modernization](https://tanzu.vmware.com/content/videos/how-to-escape-the-legacy-trap-a-proven-strategy-for-application-modernization) |
 | 2023.04.20 | [VMware & Computacenter - Fire up your digital transformation](https://www.computacenterfireup.co.uk/wp-content/uploads/2021/04/CC-VMWARE-CUSTOMER-BROCHURE.pdf) |
-| 2023.04.20 | [CIONET - Cloud Smart Apps: Cutting through the app modernization complexity](https://www.cionet.com/en-be/cloudsmartapps) |
+| 2023.01.17 | [CIONET - Cloud Smart Apps: Cutting through modernization complexity](https://www.cionet.com/en-be/cloudsmartapps) |
 | 2022.11.10 | [VMware Explore - Rapid Insights to App Portfolio Modernization](https://drive.google.com/file/d/1mVjulvVAj1dNXDz6MUIlsrRSbhFx4RUx/view?usp=share_link) |
 | 2022.10.05 | My first ebook: [The Legacy Trap](http://via.vmware.com/legacy-trap) with [webinar](https://drive.google.com/file/d/1nw_Q7cD6ruk7-SkjdPElBrWYT6D5V0Zm/view?usp=share_link) |
 | 2022.10.05 | [Why Observability Is Essential for Running Modern Apps](https://devm.io/digital-transformation/observability-modern-apps) [ [EN](https://devopscon.io/whitepaper/devops-magazine-no7/) ]|
