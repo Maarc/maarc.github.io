@@ -23,10 +23,10 @@ Some of my publicly shared ebook, articles and presentations:
 
 |            |                                                         | 
 |:----------:|:------------------------------------------------------- | 
-| 2023.06.06 | [Escape the Legacy Trap: 5 Keys to Successful Application Modernization](https://tanzu.vmware.com/content/blog/escape-the-legacy-trap-successful-application-modernization) |
-| 2023.05.10 | [How to Escape the Legacy Trap: A Proven Strategy for Application Modernization](https://tanzu.vmware.com/content/videos/how-to-escape-the-legacy-trap-a-proven-strategy-for-application-modernization) |
+| 2023.06.06 | [Escape the Legacy Trap - 5 Keys to Successful Application Modernization](https://tanzu.vmware.com/content/blog/escape-the-legacy-trap-successful-application-modernization) |
+| 2023.05.10 | [A Proven Strategy for Application Modernization](https://tanzu.vmware.com/content/videos/how-to-escape-the-legacy-trap-a-proven-strategy-for-application-modernization) |
 | 2023.04.20 | [VMware & Computacenter - Fire up your digital transformation](https://www.computacenterfireup.co.uk/wp-content/uploads/2021/04/CC-VMWARE-CUSTOMER-BROCHURE.pdf) |
-| 2023.04.20 | [Cloud Smart Apps - Cutting through the complexity of app modernization](https://www.cionet.com/en-be/cloudsmartapps) |
+| 2023.04.20 | [CIONET - Cloud Smart Apps: Cutting through the app modernization complexity](https://www.cionet.com/en-be/cloudsmartapps) |
 | 2022.11.10 | [VMware Explore - Rapid Insights to App Portfolio Modernization](https://drive.google.com/file/d/1mVjulvVAj1dNXDz6MUIlsrRSbhFx4RUx/view?usp=share_link) |
 | 2022.10.05 | My first ebook: [The Legacy Trap](http://via.vmware.com/legacy-trap) with [webinar](https://drive.google.com/file/d/1nw_Q7cD6ruk7-SkjdPElBrWYT6D5V0Zm/view?usp=share_link) |
 | 2022.10.05 | [Why Observability Is Essential for Running Modern Apps](https://devm.io/digital-transformation/observability-modern-apps) [ [EN](https://devopscon.io/whitepaper/devops-magazine-no7/) ]|
@@ -42,7 +42,7 @@ Some of my publicly shared ebook, articles and presentations:
 | 2021.03.01 | [Bootifying Java Applications](https://tanzu.vmware.com/developer/guides/spring/bootifying-java-apps/) |
 | 2021.02.08 | [Legacy Infrastructure - the Saqqara Necropolis of IT?](https://www.linkedin.com/pulse/legacy-infrastructure-saqqara-necropolis-world-marc-zottner/)  [ [FR](https://www.programmez.com/avis-experts/linfrastructure-legacy-la-necropole-de-saqqarah-de-lit-31575) ] [ [DE](https://jaxenter.de/devops/legacy-systeme-problem-99809) ] [ [NL](https://www.techvisor.nl/Artikelen/4918/kijk-naar-de-egyptische-piramides-om-legacy-infrastructuur-te-begrijpen) ] |
 | 2020.11.09 | [Decision Fatigue - Einfaches Mittel gegen Spaghetti-Code](https://www.dotnetpro.de/planung/clean-code/einfaches-mittel-spaghetti-code-2603318.html) |
-| 2020.10.09 | [Tanzu Talk: The right mindset for starting application modernization](https://tanzu.vmware.com/content/videos/tanzu-talk-the-right-mindset-for-starting-application-modernization) |
+| 2020.10.09 | [Tanzu Talk - The right mindset for starting application modernization](https://tanzu.vmware.com/content/videos/tanzu-talk-the-right-mindset-for-starting-application-modernization) |
 | 2020.03.30 | [Building Sustainable, Modern App Architectures with VMware Tanzu](https://tanzu.vmware.com/content/blog/how-to-build-sustainable-modern-application-architectures) |
 | 2019.11.01 | [VMworld - App Transformation Approach: Process, Assessment, Practices](https://drive.google.com/file/d/1MW5JX0HQoOBE5udU5_MLDw0qUiETnE17/view?usp=sharing) |
 | 2018.05.08 | [Red Hat Summit - Automated Application Containerization](https://drive.google.com/file/d/1wksEBoOtkZL7rXHbHetgIT6aO3Vi_0ck/view?usp=sharing) |
