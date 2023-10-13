@@ -23,7 +23,7 @@ I'm Marc, an Application [Archeologist](https://www.linkedin.com/pulse/legacy-in
 
 ## Background
 
-Former field CTO, transformation program lead, consulting architect, middleware specialist, and trainer, I have an extensive experience in the application ecosystem. Transformation, security, platform, open-source, and architecture are my favorite topics. Recently, I co-authored my first eBook: [The Legacy Trap](https://via.vmware.com/legacy-trap/).
+Former field CTO, transformation program lead, consulting architect, middleware specialist, and trainer, I have extensive experience in the application ecosystem. Transformation, security, platform, open-source, and architecture are my favorite topics. Recently, I co-authored my first eBook ( [The Legacy Trap](https://via.vmware.com/legacy-trap/)) and published an audit tool I developed during the past years ([Application Portfolio Auditor](https://github.com/vmware-tanzu/application-portfolio-auditor)).
 
 ## Contact
 
