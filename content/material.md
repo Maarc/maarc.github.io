@@ -23,6 +23,7 @@ Some of my publicly shared ebook, tool, articles and presentations:
 
 |            |                                                         | 
 |:----------:|:------------------------------------------------------- | 
+| 2023.11.09 | [VMware Explore - Leverage Machine Intelligence for your Application Modernization](https://drive.google.com/file/d/1_OxAogoSc1Fd7K1jMzSQZXRsVXere2hl/view?usp=drive_link) |
 | 2023.08.15 | Open sourced tool: [Application Portfolio Auditor](https://github.com/vmware-tanzu/application-portfolio-auditor) |
 | 2023.06.06 | [Escape the Legacy Trap - 5 Keys to Successful Application Modernization](https://tanzu.vmware.com/content/blog/escape-the-legacy-trap-successful-application-modernization) |
 | 2023.05.10 | [A Proven Strategy for Application Modernization](https://tanzu.vmware.com/content/videos/how-to-escape-the-legacy-trap-a-proven-strategy-for-application-modernization) |
