@@ -4,28 +4,154 @@
     <title>Marc Zottner</title>
     <link>https://zottner.com/</link>
     <description>Recent content on Marc Zottner</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://zottner.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jan 2025 11:30:03 +0000</lastBuildDate>
+    <atom:link href="https://zottner.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://zottner.com/about/</link>
-      <pubDate>Tue, 03 Jan 2023 11:30:03 +0000</pubDate>
-      
+      <pubDate>Thu, 23 Jan 2025 11:30:03 +0000</pubDate>
       <guid>https://zottner.com/about/</guid>
-      <description>I&amp;rsquo;m Marc, an Application Archeologist and Executive Advisor at VMware Tanzu.
-Background Former field CTO, transformation program lead, consulting architect, middleware specialist, and trainer, I have extensive experience in the application ecosystem. Transformation, security, platform, open-source, and architecture are my favorite topics. Recently, I co-authored my first eBook (The Legacy Trap) and published an audit tool I developed during the past years (Application Portfolio Auditor).
-Contact Please feel free to reach out to me directly on LinkedIn.</description>
+      <description>&lt;p&gt;I&amp;rsquo;m Marc, an Application &lt;a href=&#34;https://www.linkedin.com/pulse/legacy-infrastructure-saqqara-necropolis-world-marc-zottner/&#34;&gt;Archeologist&lt;/a&gt;, Field CTO and Executive Advisor.&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;As former transformation program lead, consulting architect, middleware specialist, and trainer, I have extensive experience in the application ecosystem. Transformation, security, platform, open-source, and architecture are my favorite topics. Over the past years, I co-authored my first eBook (&lt;a href=&#34;https://via.vmware.com/legacy-trap/&#34;&gt;The Legacy Trap&lt;/a&gt;) and published an audit tool (&lt;a href=&#34;https://github.com/vmware-tanzu/application-portfolio-auditor&#34;&gt;Application Portfolio Auditor&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Previously, I worked at &lt;a href=&#34;https://tanzu.vmware.com/tanzu&#34;&gt;VMware Tanzu&lt;/a&gt;, &lt;a href=&#34;https://tanzu.vmware.com/tanzu&#34;&gt;Pivotal&lt;/a&gt;, &lt;a href=&#34;https://www.redhat.com/de&#34;&gt;Red Hat&lt;/a&gt;, &lt;a href=&#34;https://www.cgi.com/de/de&#34;&gt;CGI&lt;/a&gt;, and &lt;a href=&#34;https://www.ibm.com/de-de&#34;&gt;IBM&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+&lt;p&gt;Please feel free to reach out to me directly on &lt;a href=&#34;https://www.linkedin.com/in/marczottner&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Public Material</title>
       <link>https://zottner.com/material/</link>
       <pubDate>Tue, 03 Jan 2023 11:30:03 +0000</pubDate>
-      
       <guid>https://zottner.com/material/</guid>
-      <description>Some of my publicly shared ebook, tool, articles and presentations:
-2023.11.29 Introducing the Open Source Application Portfolio Auditor 2023.11.09 VMware Explore - Foster Machine Intelligence for your App Modernization 2023.08.15 Open sourced tool: Application Portfolio Auditor 2023.06.06 Escape the Legacy Trap - 5 Keys to Successful Application Modernization 2023.05.10 A Proven Strategy for Application Modernization 2023.04.20 VMware &amp;amp; Computacenter - Fire up your digital transformation 2023.01.17 CIONET - Cloud Smart Apps: Cutting through modernization complexity 2022.</description>
+      <description>&lt;p&gt;Some of my publicly shared ebook, tool, articles and presentations:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2023.11.29&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://tanzu.vmware.com/content/blog/introducing-application-portfolio-auditor&#34;&gt;Introducing the Open Source Application Portfolio Auditor&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2023.11.09&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1_OxAogoSc1Fd7K1jMzSQZXRsVXere2hl/view?usp=drive_link&#34;&gt;VMware Explore - Foster Machine Intelligence for your App Modernization&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2023.08.15&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Open sourced tool: &lt;a href=&#34;https://github.com/vmware-tanzu/application-portfolio-auditor&#34;&gt;Application Portfolio Auditor&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2023.06.06&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://tanzu.vmware.com/content/blog/escape-the-legacy-trap-successful-application-modernization&#34;&gt;Escape the Legacy Trap - 5 Keys to Successful Application Modernization&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2023.05.10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://tanzu.vmware.com/content/videos/how-to-escape-the-legacy-trap-a-proven-strategy-for-application-modernization&#34;&gt;A Proven Strategy for Application Modernization&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2023.04.20&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.computacenterfireup.co.uk/wp-content/uploads/2021/04/CC-VMWARE-CUSTOMER-BROCHURE.pdf&#34;&gt;VMware &amp;amp; Computacenter - Fire up your digital transformation&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2023.01.17&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.cionet.com/en-be/cloudsmartapps&#34;&gt;CIONET - Cloud Smart Apps: Cutting through modernization complexity&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2022.11.10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1mVjulvVAj1dNXDz6MUIlsrRSbhFx4RUx/view?usp=share_link&#34;&gt;VMware Explore - Rapid Insights to App Portfolio Modernization&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2022.10.05&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;My first ebook: &lt;a href=&#34;http://via.vmware.com/legacy-trap&#34;&gt;The Legacy Trap&lt;/a&gt; with &lt;a href=&#34;https://drive.google.com/file/d/1nw_Q7cD6ruk7-SkjdPElBrWYT6D5V0Zm/view?usp=share_link&#34;&gt;webinar&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2022.10.05&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://devm.io/digital-transformation/observability-modern-apps&#34;&gt;Why Observability Is Essential for Running Modern Apps&lt;/a&gt; [ &lt;a href=&#34;https://devopscon.io/whitepaper/devops-magazine-no7/&#34;&gt;EN&lt;/a&gt; ]&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2022.09.29&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://devm.io/careers/developer-talent-crunch&#34;&gt;Five Things Developers Want&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2022.06.02&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://jaxenter.com/app-transformation-177545.html&#34;&gt;The 7Rs of Modernisation – a roadmap to app transformation&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2022.05.18&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://tanzu.vmware.com/developer/learningpaths/swift-monolith-modernization/01-swift-overview/&#34;&gt;Swift Method Overview&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2022.04.25&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://technologydispatch.com/failed-new-year-resolutions-theres-still-hope-for-your-application-portfolio/&#34;&gt;New year resolutions and application portfolio&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2021.12.23&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://technologydispatch.com/christmas-2021-coping-with-customer-demand-during-the-festive-period/&#34;&gt;Coping with customer demand during the festive period&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2021.10.21&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://technative.io/transforming-government-software-development-and-digital-services/&#34;&gt;Transforming Government Software Dev and Digital Services&lt;/a&gt; [ &lt;a href=&#34;https://www.eweekuk.com/development/transforming-government-software-development-and-digital-services/&#34;&gt;EN&lt;/a&gt; ] [ &lt;a href=&#34;https://technologydispatch.com/transforming-government-services-a-digital-revolution/&#34;&gt;EN&lt;/a&gt; ]&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2021.05.31&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/how-marie-kondo-your-application-portfolio-marc-zottner/&#34;&gt;How to Marie Kondo your application portfolio&lt;/a&gt;  ( &lt;a href=&#34;https://content.yudu.com/web/69r/0A4417d/EWorldMay21/html/index.html%3Fpage=19&#34;&gt;Short&lt;/a&gt; ) [ &lt;a href=&#34;https://itrnews.com/articles/191117/marie-kondo-le-rangement-magique-pour-votre-portefeuille-applicatif.html&#34;&gt;FR&lt;/a&gt; ]&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2021.05.27&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://cloudcomputing-news.net/news/2021/may/27/how-to-thrive-in-a-cloud-native-culture-outside-the-cloud/&#34;&gt;How to thrive in a cloud-native culture – outside the cloud&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2021.03.12&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://jaxenter.com/financial-services-modernisation-173920.html.&#34;&gt;Five Steps to Financial Services App Modernisation&lt;/a&gt;  [ &lt;a href=&#34;https://www.it-finanzmagazin.de/vmware-5-schritte-zur-modernisierung-apps-119699/&#34;&gt;DE&lt;/a&gt; ] [ &lt;a href=&#34;https://www.techradar.com/uk/news/five-steps-to-financial-services-app-modernization&#34;&gt;EN&lt;/a&gt; ]&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2021.03.01&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://tanzu.vmware.com/developer/guides/spring/bootifying-java-apps/&#34;&gt;Bootifying Java Applications&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2021.02.08&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/legacy-infrastructure-saqqara-necropolis-world-marc-zottner/&#34;&gt;Legacy Infrastructure - the Saqqara Necropolis of IT?&lt;/a&gt;  [ &lt;a href=&#34;https://www.programmez.com/avis-experts/linfrastructure-legacy-la-necropole-de-saqqarah-de-lit-31575&#34;&gt;FR&lt;/a&gt; ] [ &lt;a href=&#34;https://jaxenter.de/devops/legacy-systeme-problem-99809&#34;&gt;DE&lt;/a&gt; ] [ &lt;a href=&#34;https://www.techvisor.nl/Artikelen/4918/kijk-naar-de-egyptische-piramides-om-legacy-infrastructuur-te-begrijpen&#34;&gt;NL&lt;/a&gt; ]&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2020.11.09&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://www.dotnetpro.de/planung/clean-code/einfaches-mittel-spaghetti-code-2603318.html&#34;&gt;Decision Fatigue - Einfaches Mittel gegen Spaghetti-Code&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2020.10.09&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://tanzu.vmware.com/content/videos/tanzu-talk-the-right-mindset-for-starting-application-modernization&#34;&gt;Tanzu Talk - The right mindset for starting application modernization&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2020.03.30&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://tanzu.vmware.com/content/blog/how-to-build-sustainable-modern-application-architectures&#34;&gt;Building Sustainable, Modern App Architectures with VMware Tanzu&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2019.11.01&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1MW5JX0HQoOBE5udU5_MLDw0qUiETnE17/view?usp=sharing&#34;&gt;VMworld - App Transformation Approach: Process, Assessment, Practices&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2018.05.08&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1wksEBoOtkZL7rXHbHetgIT6aO3Vi_0ck/view?usp=sharing&#34;&gt;Red Hat Summit - Automated Application Containerization&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2017.05.03&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1EJ1RG-38bKSkP8_tXOeTlXhyaC3NTvmv/view?usp=sharing&#34;&gt;Red Hat Summit - Application Modernization &amp;amp; Migration to Red Hat JBoss Middleware and OpenShift&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2016.06.29&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1C15XpY1-IJ1OQANgEtZm75Efcx6kTWrC/view?usp=sharing&#34;&gt;Red Hat Summit - Orchestrate JBoss Middleware with Ansible Tower&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2015.06.26&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1zrIdzP0ICHHA0loWnNmtkYqsSXfclQDL/view?usp=sharing&#34;&gt;Red Hat Summit - Migrating to Red Hat JBoss Middleware&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
-    
   </channel>
 </rss>
