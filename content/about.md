@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2023-01-03T11:30:03+00:00
+date: 2025-01-23T11:30:03+00:00
 description: ""
 showToc: false
 TocOpen: false
@@ -19,11 +19,13 @@ ShowRssButtonInSectionTermList: false
 UseHugoToc: false
 ---
 
-I'm Marc, an Application [Archeologist](https://www.linkedin.com/pulse/legacy-infrastructure-saqqara-necropolis-world-marc-zottner/) and Executive Advisor at [VMware Tanzu](https://tanzu.vmware.com/tanzu).
+I'm Marc, an Application [Archeologist](https://www.linkedin.com/pulse/legacy-infrastructure-saqqara-necropolis-world-marc-zottner/), Field CTO and Executive Advisor.
 
 ## Background
 
-Former field CTO, transformation program lead, consulting architect, middleware specialist, and trainer, I have extensive experience in the application ecosystem. Transformation, security, platform, open-source, and architecture are my favorite topics. Recently, I co-authored my first eBook ([The Legacy Trap](https://via.vmware.com/legacy-trap/)) and published an audit tool I developed during the past years ([Application Portfolio Auditor](https://github.com/vmware-tanzu/application-portfolio-auditor)).
+As former transformation program lead, consulting architect, middleware specialist, and trainer, I have extensive experience in the application ecosystem. Transformation, security, platform, open-source, and architecture are my favorite topics. Over the past years, I co-authored my first eBook ([The Legacy Trap](https://via.vmware.com/legacy-trap/)) and published an audit tool ([Application Portfolio Auditor](https://github.com/vmware-tanzu/application-portfolio-auditor)).
+
+Previously, I worked at [VMware Tanzu](https://tanzu.vmware.com/tanzu), [Pivotal](https://tanzu.vmware.com/tanzu), [Red Hat](https://www.redhat.com/de), [CGI](https://www.cgi.com/de/de), and [IBM](https://www.ibm.com/de-de).
 
 ## Contact
 
