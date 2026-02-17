@@ -1,0 +1,9 @@
+{{- /* Custom head extensions */ -}}
+{{- /* Add hreflang tags for internationalization */ -}}
+<link rel="alternate" hreflang="en" href="{{ .Permalink }}" />
+<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
+
+{{- /* Add preload hint for LCP image on homepage */ -}}
+{{- if .IsHome }}
+<link rel="preload" as="image" href="https://avatars.githubusercontent.com/u/2445024?v=4" fetchpriority="high" />
+{{- end }}

@@ -10,7 +10,7 @@ buildExpired: false
 
 googleAnalytics: UA-133419934-1
 
-disableKinds: ["term", "taxonomy", "taxonomyTerm", "sitemap"]
+disableKinds: ["term", "taxonomy"]
 
 minify:
   disableXML: true
@@ -18,10 +18,11 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Marc Zottner
-  description: "Personal page"
-  keywords: [Blog, Application, Modernization]
+  title: Marc Zottner | Application Archeologist | Fellow & Field CTO | IT Modernization
+  description: "Application Archeologist, Field CTO, and Executive Advisor specializing in modernization, cloud-native transformation, and enterprise architecture."
+  keywords: [Application Modernization, Cloud Native, Architecture, Legacy Systems, VMware Tanzu]
   author: Marc Zottner
+  images: ["https://avatars.githubusercontent.com/u/2445024?v=4"]
   DateFormat: "January 3, 2023"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -61,19 +62,27 @@ params:
 
   socialIcons:
     - name: linkedin
+      title: "LinkedIn Profile"
       url: "https://www.linkedin.com/in/marczottner/"
     - name: xing
+      title: "Xing Profile"
       url: "https://www.xing.com/profile/Marc_Zottner"
     - name: github
+      title: "GitHub Profile"
       url: "https://github.com/maarc/"
     - name: twitter
+      title: "Twitter Profile"
       url: "https://twitter.com/MarcZottner"
     - name: soundcloud
+      title: "SoundCloud Profile"
       url: "https://soundcloud.com/true-dj-raffe"
 
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
+
+  schema:
+    publisherType: "Person"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -83,12 +92,12 @@ params:
 menu:
   main:
     - identifier: material
-      name: material
-      url: material
+      name: Material
+      url: /material/
       weight: 10
     - identifier: about
-      name: about
-      url: about
+      name: About
+      url: /about/
       weight: 20
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma

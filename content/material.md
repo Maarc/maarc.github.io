@@ -1,7 +1,9 @@
 ---
 title: "Public Material"
 date: 2023-01-03T11:30:03+00:00
-description: ""
+description: "Published articles, ebooks, presentations, and tools."
+author: "Marc Zottner"
+images: ["https://avatars.githubusercontent.com/u/2445024?v=4"]
 showToc: false
 TocOpen: false
 draft: false
@@ -19,10 +21,12 @@ ShowRssButtonInSectionTermList: false
 UseHugoToc: false
 ---
 
-Some of my publicly shared ebook, tool, articles and presentations:
+The following is a chronological list of my publicly shared content, from recent work to earlier publications. Each piece represents lessons learned from real-world transformation projects and collaborations with organizations across various industries.
 
 |            |                                                         | 
 |:----------:|:------------------------------------------------------- | 
+| 2026.02.17 | [Heartbeat Interview - Die einzige Konstante ist die Veränderung](https://exxeta.com/blog/interview-heartbeat-veraenderung) |
+| 2025.10.05 | [IT-Modernization in a Heartbeat](https://exxeta.com/en/services/it-modernisierung) at exxeta |
 | 2023.11.29 | [Introducing the Open Source Application Portfolio Auditor](https://tanzu.vmware.com/content/blog/introducing-application-portfolio-auditor) |
 | 2023.11.09 | [VMware Explore - Foster Machine Intelligence for your App Modernization](https://drive.google.com/file/d/1_OxAogoSc1Fd7K1jMzSQZXRsVXere2hl/view?usp=drive_link) |
 | 2023.08.15 | Open sourced tool: [Application Portfolio Auditor](https://github.com/vmware-tanzu/application-portfolio-auditor) |
