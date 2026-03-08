@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-133419934-1
+googleAnalytics: G-T9E42JFPBE
 
 disableKinds: ["term", "taxonomy"]
 
@@ -23,8 +23,8 @@ params:
   keywords: [Application Modernization, Cloud Native, Architecture, Legacy Systems, VMware Tanzu]
   author: Marc Zottner
   images: ["https://avatars.githubusercontent.com/u/2445024?v=4"]
-  DateFormat: "January 3, 2023"
-  defaultTheme: auto # dark, light
+  DateFormat: "January 3, 2026"
+  defaultTheme: dark # auto, dark, light
   disableThemeToggle: false
 
   ShowReadingTime: false
@@ -79,7 +79,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: ""
 
   schema:
     publisherType: "Person"
@@ -110,7 +110,7 @@ server:
   headers:
   - for: "/*"
     values:
-      Content-Security-Policy: "default-src 'self' 'unsafe-eval' 'unsafe-inline' www.google-analytics.com avatars.githubusercontent.com;"
+      Content-Security-Policy: "default-src 'self' 'unsafe-eval' 'unsafe-inline' www.google-analytics.com www.googletagmanager.com avatars.githubusercontent.com;"
       Access-Control-Allow-Origin: 'http://zottner.com'
       X-Frame-Options: "DENY"
       X-XSS-Protection: "1; mode=block"
