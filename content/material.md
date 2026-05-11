@@ -36,7 +36,7 @@ The following is a chronological list of my publicly shared content, from recent
 | 2023.04.20 | [VMware & Computacenter - Fire up your digital transformation](https://www.computacenterfireup.co.uk/wp-content/uploads/2021/04/CC-VMWARE-CUSTOMER-BROCHURE.pdf) |
 | 2023.01.17 | [CIONET - Cloud Smart Apps: Cutting through modernization complexity](https://www.cionet.com/en-be/cloudsmartapps) |
 | 2022.11.10 | [VMware Explore - Rapid Insights to App Portfolio Modernization](https://drive.google.com/file/d/1mVjulvVAj1dNXDz6MUIlsrRSbhFx4RUx/view?usp=share_link) |
-| 2022.10.05 | My first ebook: [The Legacy Trap](http://via.vmware.com/legacy-trap) with [webinar](https://drive.google.com/file/d/1nw_Q7cD6ruk7-SkjdPElBrWYT6D5V0Zm/view?usp=share_link) |
+| 2022.10.05 | My first ebook: [The Legacy Trap](https://cote.io/uploads/2022/345d7a98d1.pdf) with [webinar](https://drive.google.com/file/d/1nw_Q7cD6ruk7-SkjdPElBrWYT6D5V0Zm/view?usp=share_link) |
 | 2022.10.05 | [Why Observability Is Essential for Running Modern Apps](https://devm.io/digital-transformation/observability-modern-apps) [ [EN](https://devopscon.io/whitepaper/devops-magazine-no7/) ]|
 | 2022.09.29 | [Five Things Developers Want](https://devm.io/careers/developer-talent-crunch) |
 | 2022.06.02 | [The 7Rs of Modernisation – a roadmap to app transformation](https://jaxenter.com/app-transformation-177545.html) |
