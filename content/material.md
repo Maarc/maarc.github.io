@@ -25,6 +25,7 @@ The following is a chronological list of my publicly shared content, from recent
 
 |            |                                                         | 
 |:----------:|:------------------------------------------------------- | 
+| 2026.05.04 | [Navigating a large-scale Android app landscape with exxfer](https://levelup.gitconnected.com/navigating-a-large-scale-android-app-landscape-with-exxfer-26c7fe3e2dc2) |
 | 2026.02.17 | [Heartbeat Interview - Die einzige Konstante ist die Veränderung](https://exxeta.com/blog/interview-heartbeat-veraenderung) |
 | 2025.10.05 | [IT-Modernization in a Heartbeat](https://exxeta.com/en/services/it-modernisierung) at exxeta |
 | 2023.11.29 | [Introducing the Open Source Application Portfolio Auditor](https://tanzu.vmware.com/content/blog/introducing-application-portfolio-auditor) |
